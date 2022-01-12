@@ -7,7 +7,7 @@ There is also themes for Vim-Airline & Vim-Lightline
 ### Color Schemes
 
 - [vim/colorschemes](https://github.com/vim/colorschemes/)
-- [rainglow](https://github.com/rainglow/vim/)
+- [rainglow/vim](https://github.com/rainglow/vim/)
 - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes/)
 - [haystackandroid/vimspectr](https://github.com/haystackandroid/vimspectr/)
 - [mswift42/vim-themes](https://github.com/mswift42/vim-themes/)

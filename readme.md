@@ -4,6 +4,64 @@ This is a Collection of VIM color schemes that i've found on Github
 
 There is also themes for Vim-Airline & Vim-Lightline
 
+if you want, you can use any Plugin Managers for VIM, and just install these repos, here is an example using [vim-plug](https://github.com/junegunn/vim-plug)
+
+```
+call plug#begin('path/to/your/plugins')
+    Plug 'vim/colorschemes'
+    Plug 'rainglow/vim'
+    Plug 'rafi/awesome-vim-colorschemes'
+    Plug 'haystackandroid/vimspectr'
+    Plug 'mswift42/vim-themes'
+    Plug 'mkarmona/colorsbox'
+    Plug 'arzg/vim-colors-xcode'
+    Plug 'morhetz/gruvbox'
+    Plug 'sainnhe/gruvbox-material'
+    Plug 'sainnhe/everforest'
+    Plug 'sainnhe/sonokai'
+    Plug 'sainnhe/edge'
+    Plug 'tomasr/molokai'
+    Plug 'altercation/vim-colors-solarized'
+    Plug 'sonph/onehalf'
+    Plug 'chriskempson/base16-vim'
+    Plug 'jnurmine/Zenburn'
+    Plug 'rakr/vim-one'
+    Plug 'NLKNguyen/papercolor-theme'
+    Plug 'sjl/badwolf'
+    Plug 'nanotech/jellybeans.vim'
+    Plug 'connorholyday/vim-snazzy'
+    Plug 'mhartington/oceanic-next'
+    Plug 'ayu-theme/ayu-vim'
+    Plug 'ciaranm/inkpot'
+    Plug 'cocopon/iceberg.vim'
+    Plug 'robertmeta/nofrils'
+    Plug 'vim-monokai'
+    Plug 'onedark.vim'
+    Plug 'dracula/vim'
+    Plug 'jacoborus/tender.vim'
+    Plug 'raphamorim/lucario'
+    Plug 'srcery-colors/srcery-vim'
+    Plug 'pineapplegiant/spaceduck'
+    Plug 'liuchengxu/space-vim-dark'
+    Plug 'sindresorhus/focus'
+    Plug 'ghifarit53/tokyonight-vim'
+    Plug 'embark-theme/vim'
+    Plug 'haishanh/night-owl.vim'
+    Plug 'Rigellute/rigel'
+    Plug 'ackyshake/Spacegray.vim'
+    Plug 'gosukiwi/vim-atom-dark'
+    Plug 'jaredgorski/SpaceCamp'
+    Plug 'hzchirs/vim-material'
+    Plug 'jdkanani/vim-material-theme'
+    Plug 'jasonlong/lavalamp'
+    Plug 'chriskempson/vim-tomorrow-theme'
+    Plug 'jpo/vim-railscasts-theme'
+    Plug 'haystackandroid/snow'
+    Plug 'doums/darcula'
+    Plug 'vim-airline/vim-airline-themes'
+call plug#end()
+```
+
 ### Color Schemes
 
 - [vim/colorschemes](https://github.com/vim/colorschemes/)

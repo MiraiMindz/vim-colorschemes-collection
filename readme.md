@@ -39,8 +39,8 @@ Plug 'ciaranm/inkpot'
 Plug 'cocopon/iceberg.vim'
 Plug 'robertmeta/nofrils'
 Plug 'vim-monokai'
-Plug 'onedark.vim'
-Plug 'dracula/vim'
+Plug 'sickill/vim-monokai'
+Plug 'joshdick/onedark.vim'
 Plug 'jacoborus/tender.vim'
 Plug 'raphamorim/lucario'
 Plug 'srcery-colors/srcery-vim'
@@ -95,8 +95,8 @@ DISCLAIMER, I DON'T OWN ANY OF THESE THEMES, I JUST BUNDLED THEY TO BE EASY FOR 
 - [ciaranm/inkpot](https://github.com/ciaranm/inkpot/)
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim/)
 - [robertmeta/nofrils](https://github.com/robertmeta/nofrils/)
-- [vim-monokai](https://github.com/sickill/vim-monokai/)
-- [onedark.vim](https://github.com/joshdick/onedark.vim/)
+- [sickill/vim-monokai](https://github.com/sickill/vim-monokai/)
+- [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim/)
 - [dracula/vim](https://github.com/dracula/vim/)
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim/)
 - [raphamorim/lucario](https://github.com/raphamorim/lucario/)
